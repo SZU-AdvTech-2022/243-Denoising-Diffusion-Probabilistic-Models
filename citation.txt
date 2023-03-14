@@ -1,0 +1,8 @@
+@article{REPO-244,
+    author = "Ho, Jonathan C. and Jain, Ajay and Abbeel, Pieter",
+    journal = "arXiv (Cornell University)",
+    month = "6",
+    publisher = "Cornell University",
+    title = "{{Denoising Diffusion Probabilistic Models}}",
+    year = "2020"
+}
